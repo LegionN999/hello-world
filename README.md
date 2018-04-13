@@ -1,2 +1,3 @@
 # hello-world
-Erstes Projekt
+Erstes Projekt -> Erstelle einen Taschenrechner
+und vllt. ein paar Extras
